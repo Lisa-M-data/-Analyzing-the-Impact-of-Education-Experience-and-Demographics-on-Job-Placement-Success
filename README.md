@@ -9,7 +9,7 @@ Job Placement Status (Placed/Not Placed)
 Age GPA Degree Gender Major Previous Work Experience College Name
 
 # Why I Chose This Topic:
-Through my experience as an Enrollment Advisor, Career Coach, and Talent Sourcer, I have closely observed the factors that influence candidates' career outcomes. This project seeks to identify the key independent variables—such as GPA, major, and previous work experience—that most significantly impact job placement success. By analyzing these factors, I aim to uncover insights that can help refine career support strategies and improve job placement rates for future job seekers.
+Through my experience in workforce development, I have closely observed the factors that influence candidates' career outcomes. This project seeks to identify the key independent variables—such as GPA, major, and previous work experience—that most significantly impact job placement success. By analyzing these factors, I aim to uncover insights that can help refine career support strategies and improve job placement rates for future job seekers.
 
 # Data:
 The dataset, sourced from Kaggle, contains 700 records with 8 variables:
