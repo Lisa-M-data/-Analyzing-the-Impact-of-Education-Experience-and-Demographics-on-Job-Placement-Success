@@ -1,4 +1,4 @@
-# Title: Analyzing the Impact of Education, Experience, and Demographics on Job Placement Success
+Analyzing the Impact of Education, Experience, and Demographics on Job Placement Success
 # Hypothesis:
 There is a significant relationship between job placement success and factors such as previous work experience, GPA, and degree type, with work experience being the strongest predictor of job placement.
 
